@@ -48,3 +48,7 @@ Add in more template files to cover more possible Extender types.
 Blog Post about this over here:
 
 http://blog.secarma.co.uk/labs/burp-extender-forge
+
+YouTube Video showing usage here:
+
+https://www.youtube.com/watch?v=TmG0-YFV2Zo
